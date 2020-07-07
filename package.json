@@ -2,7 +2,7 @@
   "name": "dimensio",
   "version": "0.1.0",
   "description": "Tool for a dynamic display of homepages",
-  "main": "src/entry.js",
+  "main": "lib/Dimensio.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
